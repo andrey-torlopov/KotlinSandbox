@@ -4,7 +4,8 @@
       "Bash(chmod:*)",
       "Bash(java:*)",
       "Bash(kotlin:*)",
-      "Bash(gradle:*)"
+      "Bash(gradle:*)",
+      "Bash(./gradlew:*)"
     ],
     "deny": [],
     "ask": []
