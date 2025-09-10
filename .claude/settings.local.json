@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(java:*)",
+      "Bash(kotlin:*)",
+      "Bash(gradle:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
